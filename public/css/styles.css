@@ -1,0 +1,22 @@
+.navbar.navbar-expand-lg.navbar-light.sticky-top {
+}
+
+li a {
+  color: white !important;
+}
+
+.dropdown-menu {
+  background-color: green !important;
+}
+
+.dropdown-menu a {
+  font-weight: 400;
+}
+
+h6 {
+  color: white;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+
