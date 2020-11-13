@@ -45,7 +45,7 @@
     <nav class="navbar navbar-expand-sm navbar-light sticky-top" style=" background-color:green !important">
     <div class="container-fluid">
         <a class="navbar-brand" style="color:white !important" href="{{ url('') }}">
-        <img src="img/logo2.png" style="height:30px;">Shamata Girls High School
+        <img src="img/logo2.png" class="fa-spin" style="height:30px;"><span style="font-size:14px">Shamata Girls High School</span>
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mobile_nav" aria-controls="mobile_nav" aria-expanded="false" aria-label="Toggle navigation">
          <span class="navbar-toggler-icon"></span>
@@ -90,7 +90,7 @@
                              <hr style="background-color:white">
                         </div>
                        <div class="mb-4 col-sm-6 col-lg-3 border-right">
-                            <h6>Mathematics Departments</h6>
+                            <h6>Mathematics Department</h6>
                              <span style="color:whitesmoke">
                             Subjects Under this Include:
                             </span>
@@ -111,7 +111,7 @@
                              <hr style="background-color:white">
                         </div>
                         <div class="mb-4 col-sm-6 col-lg-3 border-right">
-                            <h6>Science Departments</h6>
+                            <h6>Science Department</h6>
                              <span style="color:whitesmoke">
                             Subjects Under this Include:
                             </span>
@@ -126,7 +126,7 @@
                              <hr style="background-color:white">
                         </div>
                         <div class="mb-4 col-sm-6 col-lg-3">
-                            <h6>Technical Departments</h6>
+                            <h6>Technical Department</h6>
                               <span style="color:whitesmoke">
                             Subjects Under this Include:
                             </span>
@@ -219,8 +219,8 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="text-center col-6 col-md-3">
-					<span style="color:white">Shamata Girls School</span><br>
-                    <img src="img/logo2.png" style="height:200px;width:200px"/>
+					<span style="color:white">Shamata Girls High School</span><br>
+                    <img src="img/logo2.png" style="height:150px;width:150px"/>
                 </div>
                 <div class="col-6 col-md-3">
                     <h4 style="filter: sepia(100%);">Important Links</h4>

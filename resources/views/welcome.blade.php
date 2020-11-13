@@ -123,7 +123,7 @@
             <!-- Slide Text Layer -->
             <div class="fw_al_001_slide">
                 <h3 data-animation="animated fadeInUp">Our Labs</h3>
-                <h1 data-animation="animated fadeInUp">We have ultra modernn and standard science laboratories to give our students the best of experience.</h1>
+                <h1 data-animation="animated fadeInUp">We have ultra modern and standard science laboratories to give our students the best of experience.</h1>
             </div>
         </div>
         <div class="carousel-item">
@@ -135,7 +135,7 @@
             <div class="fw_al_001_slide">
                 <h3 data-animation="animated fadeInUp">Leadership</h3>
                 <h1 data-animation="animated fadeInUp">
-                    We help nature leadership skills right from the root making our students fit for leadership roles in the future.
+                    We help Nurture leadership skills right from the root making our students fit for leadership roles in the future.
                 </h1>
             </div>
         </div>
@@ -197,7 +197,7 @@
                                     <div><i class="fas fa-church" style="font-size: 98px;color:green"></i></div>
                                     <h4 class="title"><strong style="font-weight:bold;text-decoration:underline">Our Faith</strong><br></h4>
                                     <p class="description"><strong>
-                                    Apart from academic growth, we also promote spiritual growth by giving our students the freedom of worship. We therefore have Christian Union(C.U), the Young Catholic Association(YCA) and the Seventh Day Adventist(SDA) Societies.
+                                    Apart from academic growth, we also promote spiritual growth by giving our students the freedom of worship. We therefore have Christian Union(C.U), the Young Christian  Students(YCS) and the Seventh Day Adventist(SDA) Societies.
                                     <br></p>
                                 </div>
                             </div>
